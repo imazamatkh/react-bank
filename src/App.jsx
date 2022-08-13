@@ -6,7 +6,7 @@ export const App = () => (
 
     <main className={'main'} id={'main'}>
       <Hero />
-      <div className={'bg-primary sm:px-16 px-6'}>
+      <div className={'bg-primary'}>
         <Stats />
         <Business />
         <Billing />
